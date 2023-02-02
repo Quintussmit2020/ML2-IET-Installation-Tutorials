@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89305aa391d1c5141bbe1628d930a2c5, type: 3}
+  m_Name: Tutorials
+  m_EditorClassIdentifier: 
+  Modified:
+    m_PersistentCalls:
+      m_Calls: []
+  ParentContainer: {fileID: 0}
+  OrderInView: 0
+  BackgroundImage: {fileID: 0}
+  Title:
+    m_Untranslated: 'Magic Leap 2: Getting started'
+  Subtitle:
+    m_Untranslated: 
+  Description:
+    m_Untranslated: 
+  ProjectLayout: {fileID: 102900000, guid: 337f070b8c61e93458a3035159475b94, type: 3}
+  Sections:
+  - OrderInView: 0
+    Heading:
+      m_Untranslated: Tutorial 1 - Install the Magic Leap Hub
+    Text:
+      m_Untranslated: The first step in setting up for ML application development
+        is to set up the ML Hub on your local machine.
+    Metadata: 
+    Url: 
+    Image: {fileID: 2800000, guid: ad5bce947827e134ea06665ca2fc5b85, type: 3}
+    Tutorial: {fileID: 11400000, guid: 3f44d25fa64184540bb2a5cfcc1ac092, type: 2}
+  - OrderInView: 1
+    Heading:
+      m_Untranslated: Step 2 - Set up the development environment
+    Text:
+      m_Untranslated: Set up the basic development environment in the Unity Editor
+    Metadata: 
+    Url: 
+    Image: {fileID: 2800000, guid: 60fc9477bcb671b459523d02d9a8c717, type: 3}
+    Tutorial: {fileID: 11400000, guid: 72e81b0afbd1770469c4e35317e1e5d8, type: 2}
+  - OrderInView: 2
+    Heading:
+      m_Untranslated: Step 3 - Build a simple application
+    Text:
+      m_Untranslated: Look at the various parts of a sample application
+    Metadata: 
+    Url: 
+    Image: {fileID: 2800000, guid: d7e3d631d374a0342b5c70da8e739837, type: 3}
+    Tutorial: {fileID: 11400000, guid: aa2123e1f16e1cf43bf2423e355a5b3d, type: 2}
+  - OrderInView: 3
+    Heading:
+      m_Untranslated: Step 4 - Set up the ML2 Application Simulator
+    Text:
+      m_Untranslated: Learn how to set up the the <b>Application Simulator.</b> This
+        tool lets you iterate and test code changes without having to build and deploy
+        the app to a device.
+    Metadata: 
+    Url: 
+    Image: {fileID: 2800000, guid: e200080d1c228ba489a5145893c76465, type: 3}
+    Tutorial: {fileID: 11400000, guid: 63229b341b3c77b47b6d6cd183f3949e, type: 2}
