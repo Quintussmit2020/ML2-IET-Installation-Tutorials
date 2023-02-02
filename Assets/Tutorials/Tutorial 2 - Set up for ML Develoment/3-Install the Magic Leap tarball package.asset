@@ -12,8 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
   m_Name: 3-Install the Magic Leap tarball package
   m_EditorClassIdentifier: 
-  Title:
-    m_Untranslated: Install the Magic Leap tarball package
   m_Paragraphs:
     m_Items:
     - m_Type: 6
@@ -22,7 +20,7 @@ MonoBehaviour:
       Text:
         m_Untranslated: 
       m_Tutorial: {fileID: 0}
-      m_Image: {fileID: 2800000, guid: 2748c5005f18f2c45ae45f51cad477a3, type: 3}
+      m_Image: {fileID: 2800000, guid: 2be42b55f0f60d34b82aebf12d5c0a46, type: 3}
       m_Video: {fileID: 0}
       m_CriteriaCompletion: 0
       m_Criteria:

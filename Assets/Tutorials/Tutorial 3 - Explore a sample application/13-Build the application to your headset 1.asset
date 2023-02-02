@@ -12,8 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
   m_Name: 13-Build the application to your headset 1
   m_EditorClassIdentifier: 
-  Title:
-    m_Untranslated: Build the application
   m_Paragraphs:
     m_Items:
     - m_Type: 6
@@ -37,7 +35,7 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 0
       Title:
-        m_Untranslated: 
+        m_Untranslated: Build and run the application
       Text:
         m_Untranslated: 'When the application runs, it will detect the physical space
           around you and display a mesh over it.

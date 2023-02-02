@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
-  m_Name: 15-LastPage
+  m_Name: 8-Delete the Custome Define Symbol
   m_EditorClassIdentifier: 
   m_Paragraphs:
     m_Items:
@@ -20,7 +20,7 @@ MonoBehaviour:
       Text:
         m_Untranslated: 
       m_Tutorial: {fileID: 0}
-      m_Image: {fileID: 0}
+      m_Image: {fileID: 2800000, guid: 598e9c46207df2947a811c0125703769, type: 3}
       m_Video: {fileID: 0}
       m_CriteriaCompletion: 0
       m_Criteria:
@@ -35,11 +35,14 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 0
       Title:
-        m_Untranslated: Congratulations!
+        m_Untranslated: Delete the Custom Define Symbol
       Text:
-        m_Untranslated: You have successfully set up the Unity Editor for Magic Leap
-          application development. In the following tutorial, you will create a simple
-          application and build it to the headset.
+        m_Untranslated: "In this step you will delete a custom define symbol that
+          is included in the scripts. \n\n<b> Important!</b> Please note that this
+          step is specific to this tutorial and is not somethinig you will have to
+          do in your own projects.\n\nThe custom symbol is used in the script to
+          keep the Unity editor from compiling the scripts before the required packages
+          are installed"
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
@@ -58,27 +61,14 @@ MonoBehaviour:
       Title:
         m_Untranslated: Instruction
       Text:
-        m_Untranslated: Select the link below to go to the next tutorial.
+        m_Untranslated: 'Go to the <b>Other Settings</b>  section, and under Scripting
+          Define Symbols, delete the "PACKAGE_INSTALLED" symbol by selecting it and
+          selecting the - button.
+
+
+          Select the <b>Apply</b> button to save
+          the changes.'
       m_Tutorial: {fileID: 0}
-      m_Image: {fileID: 0}
-      m_Video: {fileID: 0}
-      m_CriteriaCompletion: 0
-      m_Criteria:
-        m_Items: []
-      m_MaskingSettings:
-        m_MaskingEnabled: 0
-        m_UnmaskedViews: []
-      m_Summary: 
-      m_Description: 
-      m_InstructionBoxTitle: 
-      m_InstructionText: 
-      m_TutorialButtonText: 
-    - m_Type: 2
-      Title:
-        m_Untranslated: 
-      Text:
-        m_Untranslated: 'Tutorial 3: Build a simple Magic Leap application'
-      m_Tutorial: {fileID: 11400000, guid: aa2123e1f16e1cf43bf2423e355a5b3d, type: 2}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
       m_CriteriaCompletion: 0

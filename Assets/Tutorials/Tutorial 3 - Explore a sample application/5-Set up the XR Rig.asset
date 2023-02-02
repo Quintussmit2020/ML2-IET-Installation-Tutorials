@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
-  m_Name: 0-StartPage
+  m_Name: 5-Set up the XR Rig
   m_EditorClassIdentifier: 
   m_Paragraphs:
     m_Items:
@@ -20,7 +20,39 @@ MonoBehaviour:
       Text:
         m_Untranslated: 
       m_Tutorial: {fileID: 0}
-      m_Image: {fileID: 2800000, guid: d7033165c0a297b4a86b9d9fd439eede, type: 3}
+      m_Image: {fileID: 2800000, guid: b88e7a678e387a94b9309a77f28e4240, type: 3}
+      m_Video: {fileID: 0}
+      m_CriteriaCompletion: 0
+      m_Criteria:
+        m_Items: []
+      m_MaskingSettings:
+        m_MaskingEnabled: 0
+        m_UnmaskedViews:
+        - m_SelectorType: 1
+          m_ViewType:
+            m_TypeName: 
+          m_EditorWindowType:
+            m_TypeName: UnityEditor.SceneHierarchyWindow, UnityEditor.CoreModule,
+              Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+          m_AlternateEditorWindowTypes:
+            m_Items: []
+          m_MaskType: 0
+          m_MaskSizeModifier: 0
+          m_UnmaskedControls: []
+      m_Summary: 
+      m_Description: 
+      m_InstructionBoxTitle: 
+      m_InstructionText: 
+      m_TutorialButtonText: 
+    - m_Type: 0
+      Title:
+        m_Untranslated: Add the XR Rig
+      Text:
+        m_Untranslated: The <b>XR Rig</b> represents the headset in your Unity scene.
+          It includes a <b>Session Origin,</b> the <b>Main Camera,</b> and a <b>Game
+          Controller</b>.
+      m_Tutorial: {fileID: 0}
+      m_Image: {fileID: 0}
       m_Video: {fileID: 0}
       m_CriteriaCompletion: 0
       m_Criteria:
@@ -33,20 +65,13 @@ MonoBehaviour:
       m_InstructionBoxTitle: 
       m_InstructionText: 
       m_TutorialButtonText: 
-    - m_Type: 0
+    - m_Type: 1
       Title:
-        m_Untranslated: Set up the development environment
+        m_Untranslated: Instruction
       Text:
-        m_Untranslated: 'In this tutorial, you will set up the development environment
-          for Magic Leap application development.
-
-
-          First, you will import
-          the required packages, then change all of the required settings to build
-          to your headset or test in the simulator.
-
-
-'
+        m_Untranslated: In the Project window, go to <b>Packages > Magic Leap SDK
+          > Runtime > Tools > Prefabs</b>, then click and drag the <b>XR Rig</b>
+          prefab into the Hierarchy.
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

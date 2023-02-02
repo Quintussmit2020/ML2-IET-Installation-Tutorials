@@ -79,8 +79,8 @@ MonoBehaviour:
       Title:
         m_Untranslated: 
       Text:
-        m_Untranslated: 'Tutorial X: Make the best game!'
-      m_Tutorial: {fileID: 0}
+        m_Untranslated: 'Tutorial 4: Set up the ML Simulator'
+      m_Tutorial: {fileID: 11400000, guid: 63229b341b3c77b47b6d6cd183f3949e, type: 2}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
       m_CriteriaCompletion: 0

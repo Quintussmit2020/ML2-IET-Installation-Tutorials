@@ -12,8 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
   m_Name: 14-Create the CubeController
   m_EditorClassIdentifier: 
-  Title:
-    m_Untranslated: Create the CubeController GameObject
   m_Paragraphs:
     m_Items:
     - m_Type: 6
@@ -37,7 +35,7 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 0
       Title:
-        m_Untranslated: 
+        m_Untranslated: Create the CubeController GameObject
       Text:
         m_Untranslated: "Time to expand the functions of your application.\n\nThe
           <b>CubeController</b> GameObject will act as a container for a script that

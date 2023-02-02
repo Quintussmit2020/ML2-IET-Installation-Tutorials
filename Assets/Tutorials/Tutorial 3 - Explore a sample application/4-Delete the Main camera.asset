@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
-  m_Name: 7-Add a mesh susbsystem component
+  m_Name: 4-Delete the Main camera
   m_EditorClassIdentifier: 
   m_Paragraphs:
     m_Items:
@@ -20,14 +20,25 @@ MonoBehaviour:
       Text:
         m_Untranslated: 
       m_Tutorial: {fileID: 0}
-      m_Image: {fileID: 2800000, guid: e46ff87a728fbb4499ba0d98e5270785, type: 3}
+      m_Image: {fileID: 2800000, guid: 53b44a63fc507b54b8117c3b1f28d618, type: 3}
       m_Video: {fileID: 0}
       m_CriteriaCompletion: 0
       m_Criteria:
         m_Items: []
       m_MaskingSettings:
         m_MaskingEnabled: 0
-        m_UnmaskedViews: []
+        m_UnmaskedViews:
+        - m_SelectorType: 1
+          m_ViewType:
+            m_TypeName: 
+          m_EditorWindowType:
+            m_TypeName: UnityEditor.SceneHierarchyWindow, UnityEditor.CoreModule,
+              Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+          m_AlternateEditorWindowTypes:
+            m_Items: []
+          m_MaskType: 0
+          m_MaskSizeModifier: 0
+          m_UnmaskedControls: []
       m_Summary: 
       m_Description: 
       m_InstructionBoxTitle: 
@@ -35,10 +46,11 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 0
       Title:
-        m_Untranslated: Add a Meshing Subsystem component
+        m_Untranslated: Delete the Main Camera
       Text:
-        m_Untranslated: The Meshing Subsystem component manages all the necessary
-          calls between Magic Leap Meshing and Unity's XRMeshSubsystem.
+        m_Untranslated: The Magic Leap SDK comes with a preconfigured <b>XR Rig</b>
+          that already contains a scene camera. You can delete the existing scene
+          camera to avoid conflicts.
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
@@ -57,8 +69,7 @@ MonoBehaviour:
       Title:
         m_Untranslated: Instruction
       Text:
-        m_Untranslated: With the MeshController GameObject selected, in the Inspector
-          select <b>Add Component</b> and add a new Meshing Subsystem component.
+        m_Untranslated: Delete the <b>Main Camera</b> GameObject from the Hierarchy.
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

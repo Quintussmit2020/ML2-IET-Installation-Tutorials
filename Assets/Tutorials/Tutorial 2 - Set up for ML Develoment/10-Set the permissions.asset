@@ -12,8 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
   m_Name: 10-Set the permissions
   m_EditorClassIdentifier: 
-  Title:
-    m_Untranslated: Set the permissions
   m_Paragraphs:
     m_Items:
     - m_Type: 6
@@ -37,7 +35,7 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 0
       Title:
-        m_Untranslated: 
+        m_Untranslated: Set the permissions
       Text:
         m_Untranslated: After enabling the <b>Custom Main Manifest,</b> you will
           be able to set permissions manually for your applications.

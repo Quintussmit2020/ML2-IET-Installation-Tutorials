@@ -43,10 +43,8 @@ MonoBehaviour:
     - {fileID: 11400000, guid: 15bd0074dd496a54ea8c24dc429f102f, type: 2}
     - {fileID: 11400000, guid: 3a4f8a89745bad24dada1da8443feb69, type: 2}
     - {fileID: 11400000, guid: 64976a650fa29f6409b4cca0a4fb728a, type: 2}
-    - {fileID: 11400000, guid: 8478a87dddeee354aadac50bd0a34afb, type: 2}
     - {fileID: 11400000, guid: bf9e442d8be6e3b4abda0117e39916dd, type: 2}
     - {fileID: 11400000, guid: 7c2fdf7be73c0a74f9dbe8fc72034fff, type: 2}
-  CompletionDialog: {fileID: 0}
   Modified:
     m_PersistentCalls:
       m_Calls: []

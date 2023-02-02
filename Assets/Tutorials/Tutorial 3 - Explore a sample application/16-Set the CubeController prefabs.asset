@@ -35,7 +35,7 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 0
       Title:
-        m_Untranslated: 
+        m_Untranslated: Set the cube controller script prefabs
       Text:
         m_Untranslated: The spawned GameObject is controlled by the Spawn Object
           variable in the script, and the spawn point is controlled by the Spawn
@@ -59,9 +59,9 @@ MonoBehaviour:
         m_Untranslated: Instruction
       Text:
         m_Untranslated: Click and drag the <b>Cube</b> prefab from <b>Assets > Prefabs</b>
-          to the Spawn Object slot in the script, then  click and drag the <b>Game
-          Controller</b> GameObject from the <b>Hierarchy > XR Rig > Session Origin
-          </b> to the Spawn Location slot.
+          to the Spawn Object property, then  click and drag the <b>Game Controller</b>
+          GameObject from the <b>Hierarchy > XR Rig > Session Origin </b> to the
+          Spawn Location property.
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

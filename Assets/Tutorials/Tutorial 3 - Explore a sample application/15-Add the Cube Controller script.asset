@@ -12,8 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
   m_Name: 15-Add the Cube Controller script
   m_EditorClassIdentifier: 
-  Title:
-    m_Untranslated: Apply and open the CubeController script
   m_Paragraphs:
     m_Items:
     - m_Type: 6
@@ -37,12 +35,10 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 0
       Title:
-        m_Untranslated: 
+        m_Untranslated: Apply  the CubeController script
       Text:
         m_Untranslated: 'We have provided you with a simple script that includes
-          the bumper press functionality. Most of the code is commented out because
-          it would have caused errors in the project prior to installing the required
-          packages. '
+          the trigger and bumper press functionality. '
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

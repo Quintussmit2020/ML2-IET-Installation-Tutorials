@@ -10,8 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
-  m_Name: 2-Open the scene
+  m_Name: Archive Uncomment everything
   m_EditorClassIdentifier: 
+  Title:
+    m_Untranslated: Uncomment the code
   m_Paragraphs:
     m_Items:
     - m_Type: 6
@@ -35,10 +37,12 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 0
       Title:
-        m_Untranslated: Open SampleScene
+        m_Untranslated: 
       Text:
-        m_Untranslated: You are going to create this application using the default
-          scene named SampleScene.
+        m_Untranslated: "The lines of code that would have caused errors were commented
+          out using multiline comment characters. Any code between the sets of characters,
+          <b>/*</b> and <b>*/</b> are commented out and not active in the script.\n\nAfter
+          you remove these characters, the code in the script will be active. \n"
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
@@ -57,7 +61,11 @@ MonoBehaviour:
       Title:
         m_Untranslated: Instruction
       Text:
-        m_Untranslated: Open the SampleScene from Assets > Scenes > SampleScene.
+        m_Untranslated: 'Uncomment all the code by removing the <b>/*</b> and <b>*/</b> 
+          characters from the script.
+
+
+          Save your script. '
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
