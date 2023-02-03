@@ -63,8 +63,7 @@ MonoBehaviour:
         m_Untranslated: "Select  <b>Window > Package Manager.</b>\nSelect the Add
           (+) button  and select <b>Add package from tarball.</b> \nNavigate to the
           location of the SDK folder and select the .tgz file within to add the package: 
-          <b>com.magicleap.unitysdk.tgz.</b>\n\nIf a see a pop-up window titled XR
-          Interaction Layer Mask saying an update is required you can select ??"
+          <b>com.magicleap.unitysdk.tgz.</b>"
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
