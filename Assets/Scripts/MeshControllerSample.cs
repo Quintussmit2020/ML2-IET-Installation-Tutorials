@@ -23,7 +23,7 @@ public class MeshControllerSample : MonoBehaviour
         mlPermissionsCallbacks.OnPermissionDenied += MlPermissionsCallbacks_OnPermissionDenied;
         mlPermissionsCallbacks.OnPermissionDeniedAndDontAskAgain += MlPermissionsCallbacks_OnPermissionDenied;
         MLPermissions.RequestPermission(MLPermission.SpatialMapping, mlPermissionsCallbacks);
-        
+        meshingSubsystemComponent = GetComponent<MeshingSubsystemComponent>();
     }
 
     void Start()
