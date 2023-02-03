@@ -12,8 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
   m_Name: 4-Run the validation tool
   m_EditorClassIdentifier: 
-  Title:
-    m_Untranslated: Run the project validation tool
   m_Paragraphs:
     m_Items:
     - m_Type: 6
@@ -62,9 +60,9 @@ MonoBehaviour:
       Text:
         m_Untranslated: "Select  <b>Window > XR > MagicLeap > Project Validation.</b>\n\nSelect
           <b>Fix All</b> to run the validation tool. \n\nNotice that currently, the
-          texture compression setting cannot be updated by the validation tool. In
-          the next step, you will fix that. Close the project validation tool window
-          when done.\n"
+          texture compression settings cannot be updated by the validation tool.
+          In the next steps, you will fix that. Close the project validation tool
+          window when done."
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

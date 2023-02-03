@@ -17,7 +17,7 @@ MonoBehaviour:
   m_ProgressTrackingEnabled: 1
   m_LessonId: 3a66e4f9-96d1-44b0-9b94-c01f7b25e527
   m_Version: 1
-  m_SceneManagementBehavior: 0
+  m_SceneManagementBehavior: 1
   m_Scenes: []
   m_DefaultSceneCameraSettings:
     m_CameraMode: 0
@@ -51,7 +51,6 @@ MonoBehaviour:
     - {fileID: 11400000, guid: c4d04f9af07d8c44a87678512360a701, type: 2}
     - {fileID: 11400000, guid: d2f118b19ebfa7d4395c90c679c6f8f1, type: 2}
     - {fileID: 11400000, guid: 75b3b612b1bba3c4caa121b72dd071f9, type: 2}
-  CompletionDialog: {fileID: 0}
   Modified:
     m_PersistentCalls:
       m_Calls: []

@@ -37,12 +37,11 @@ MonoBehaviour:
       Title:
         m_Untranslated: Create the CubeController GameObject
       Text:
-        m_Untranslated: "Time to expand the functions of your application.\n\nThe
-          <b>CubeController</b> GameObject will act as a container for a script that
-          will detect bumper and trigger  button presses on the Game Controller. 
-          \n\nThe CubeController script will spawn a GameObject when the Bumper button
-          is pressed, and will grab the spawned object when the Trigger button is
-          pressed."
+        m_Untranslated: The <b>CubeController</b> GameObject will act as a container
+          for a script that will detect bumper button presses on the Game Controller.
+          When the bumper button is pressed, a cube will be instantiated that has
+          a bouncy physical material applied to it. The cube will fall and bounce
+          on the meshes.
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

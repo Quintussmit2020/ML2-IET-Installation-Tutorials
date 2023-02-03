@@ -12,8 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
   m_Name: 11-XR Plugin Magic Leap
   m_EditorClassIdentifier: 
-  Title:
-    m_Untranslated: Install the Magic Leap XR plug-in
   m_Paragraphs:
     m_Items:
     - m_Type: 6
@@ -59,12 +57,8 @@ MonoBehaviour:
       Title:
         m_Untranslated: Instruction
       Text:
-        m_Untranslated: 'Open <b>Edit</b> > <b>Project Settings.</b>
-
-
-          In
-          the Project Settings window, select <b>XR Plug-in Management,</b> and in
-          the <b>Android</b> tab, enable the <b>Magic Leap</b> plug-in.'
+        m_Untranslated: In the Project Settings window, select <b>XR Plug-in Management,</b>
+          and in the <b>Android</b> tab, enable the <b>Magic Leap</b> plug-in.
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

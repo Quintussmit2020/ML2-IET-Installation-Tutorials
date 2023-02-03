@@ -63,13 +63,14 @@ MonoBehaviour:
           add the current scene to the <b>Scenes in Build</b> section. \n\nMake sure
           your device is turned on and connected to your computer. Confirm that the
           device is recognized in the ML Hub Device Bridge. Set your Magic Leap device
-          as the <b>Run Device</b>, then select <b>Build and Run.</b>\n\nSave your
-          build as something like \u201CMeshing v1.0\u201D and select <b>Save</b>
-          to run the app on your device. The app should automatically run on the
-          device when the build process is complete, which will take a few minutes.\n\nWhen
-          the app runs, it should display a mesh over the surfaces it detects. When
-          you press the <b>Menu button,</b> the mesh will switch between opaque and
-          transparent materials."
+          as the <b>Run Device,</b> then select <b>Build and Run.</b>\n\nIf the Magic
+          Leap does not appear in the run device list, try disabling and enabling
+          Developer mode and USB debugging in the device settings.\n\nSave your build
+          as something like \u201CMeshing v1.0\u201D and select <b>Save</b> to run
+          the app on your device. The app should automatically run on the device
+          when the build process is complete, which will take a few minutes.\n\nWhen
+          the app runs, it should display a mesh over the surfaces it detects. Pressing
+          the menu button on the controller will show or hide the mesh.\n"
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

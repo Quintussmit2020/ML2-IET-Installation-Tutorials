@@ -17,7 +17,7 @@ MonoBehaviour:
   m_ProgressTrackingEnabled: 1
   m_LessonId: 840583b9-8d14-48b2-b2df-3bb2093473b8
   m_Version: 1
-  m_SceneManagementBehavior: 0
+  m_SceneManagementBehavior: 1
   m_Scenes: []
   m_DefaultSceneCameraSettings:
     m_CameraMode: 0

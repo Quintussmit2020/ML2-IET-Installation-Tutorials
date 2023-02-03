@@ -12,8 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
   m_Name: 5-Open the Android Player settings
   m_EditorClassIdentifier: 
-  Title:
-    m_Untranslated: Open the Android Player settings
   m_Paragraphs:
     m_Items:
     - m_Type: 6
@@ -60,7 +58,7 @@ MonoBehaviour:
       Title:
         m_Untranslated: Instruction
       Text:
-        m_Untranslated: 'Open <b>Edit > Project Settings</b>, select <b>Player</b>,
+        m_Untranslated: 'Open <b>Edit > Project Settings,</b> select <b>Player,</b>
           and then select the <b>Android</b> tab.
 
 

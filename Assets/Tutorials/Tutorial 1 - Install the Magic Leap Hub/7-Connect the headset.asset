@@ -37,14 +37,15 @@ MonoBehaviour:
       Title:
         m_Untranslated: 
       Text:
-        m_Untranslated: "Before you can set the USB development options, you need
-          to make sure the workstation can communicate with the device. \n\nThe ML
-          Hub contains a module called the <b>Device Bridge,</b> that helps you manage
-          apps, files, and logs on Magic Leap devices and view information about
-          the device. Device Bridge provides an interface to many Android Deb Bridge
-          (ADB) commands to speed your development processes.\n\nYou can read more
-          about using the device bridge on the <a href=\"https://developer-docs.magicleap.cloud/docs/guides/developer-tools/ml-hub/ml-hub-device-bridge\">Magic
-          Leap 2 Documentation</a> page."
+        m_Untranslated: 'The ML Hub contains a module called the <b>Device Bridge,</b>
+          that helps you manage apps, files, and logs on Magic Leap devices and view
+          information about the device. Device Bridge provides an interface to many
+          Android Debug Bridge (ADB) commands to speed your development processes.
+
+
+          You
+          can read more about using the device bridge on the <a href="https://developer-docs.magicleap.cloud/docs/guides/developer-tools/ml-hub/ml-hub-device-bridge">Magic
+          Leap 2 Documentation</a> page.'
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

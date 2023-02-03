@@ -70,7 +70,7 @@ MonoBehaviour:
         m_Untranslated: Instruction
       Text:
         m_Untranslated: In the Project window, go to <b>Packages > Magic Leap SDK
-          > Runtime > Tools > Prefabs</b>, then click and drag the <b>XR Rig</b>
+          > Runtimie > Tools > Prefabs,</b> then click and drag the <b>XR Rig</b>
           prefab into the Hierarchy.
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}

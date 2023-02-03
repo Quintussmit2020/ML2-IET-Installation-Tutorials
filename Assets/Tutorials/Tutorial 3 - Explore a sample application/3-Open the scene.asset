@@ -38,7 +38,7 @@ MonoBehaviour:
         m_Untranslated: Open SampleScene
       Text:
         m_Untranslated: You are going to create this application using the default
-          scene named SampleScene.
+          scene named SampleScene. This is a default empty Unity scene.
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

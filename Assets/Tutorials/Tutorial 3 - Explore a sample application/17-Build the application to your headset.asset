@@ -58,12 +58,11 @@ MonoBehaviour:
       Title:
         m_Untranslated: Instruction
       Text:
-        m_Untranslated: 'Connect your headset and select <b>File > Build and Run.</b>
-
-
-          Pressing
+        m_Untranslated: "Connect your headset and select <b>File > Build and Run.</b>\n\nPressing
           the trigger button will spawn a cube, and pressing the trigger button will
-          grab the spawned cube and move it to the controller position. '
+          grab the spawned cube and move it to the controller position. \n\nAs a
+          reminder, pressing the menu button will toggle the mesh material between
+          opaque and transparent."
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

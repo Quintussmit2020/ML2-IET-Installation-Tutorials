@@ -67,9 +67,9 @@ MonoBehaviour:
 
           Click
           and drag the <b>MeshControllerSample</b> script from <b>Assets > Scripts</b>
-          to the <b>MeshController</b> GameObject to apply it, then drag the <b>MeshController</b>
-          GameObject from the Hierarchy to the Meshing Subsystem property in the
-          script.'
+          to the <b>MeshController</b> GameObject to apply it, then select and drag
+          the <b>MeshController</b> GameObject from the Hierarchy to the Meshing
+          Subsystem property in the script.'
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

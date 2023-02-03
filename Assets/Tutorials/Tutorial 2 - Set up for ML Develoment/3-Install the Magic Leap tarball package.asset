@@ -41,7 +41,7 @@ MonoBehaviour:
           to install the SDK you downloaded with the Magic Leap Hub in the previous
           tutorial. You will be asked to navigate to the folder where it was saved.
           This folder can be found at the following locations:\n\n<b>Mac:</b> [USER]/MagicLeap/tools/unity/[HIGHEST-VERSION]\n<b>Windows:</b>
-          [USER]/MagicLeap/tools/[HIGHEST-VERSION]/\n\n"
+          [USER]/MagicLeap/tools/[HIGHEST-VERSION]"
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
@@ -61,9 +61,10 @@ MonoBehaviour:
         m_Untranslated: Instruction
       Text:
         m_Untranslated: "Select  <b>Window > Package Manager.</b>\nSelect the Add
-          (+) button, select <b>Add package from tarball.</b> \nNavigate to the location
-          of the SDK folder and select the .tgz file within to add the package: 
-          <b>com.magicleap.unitysdk.tgz.</b>\n"
+          (+) button  and select <b>Add package from tarball.</b> \nNavigate to the
+          location of the SDK folder and select the .tgz file within to add the package: 
+          <b>com.magicleap.unitysdk.tgz.</b>\n\nIf a see a pop-up window titled XR
+          Interaction Layer Mask saying an update is required you can select ??"
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

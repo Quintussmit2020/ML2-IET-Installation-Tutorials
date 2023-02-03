@@ -59,9 +59,9 @@ MonoBehaviour:
       Title:
         m_Untranslated: Instruction
       Text:
-        m_Untranslated: "In the Project window,  go to <b>Assets > Prefabs</b>. \n\nClick
+        m_Untranslated: "In the Project window,  go to <b>Assets > Prefabs.</b> \n\nClick
           and drag the <b>MeshRenderPrefab</b> onto the <b>Mesh Prefab</b> slot in
-          the new Meshing Subsystem component.\n"
+          the new Meshing Subsystem component."
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
