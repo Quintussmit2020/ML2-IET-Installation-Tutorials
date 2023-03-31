@@ -10,10 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
-  m_Name: 12-Activate the Magic Leap Simulator option
+  m_Name: 7-Run the validation tool
   m_EditorClassIdentifier: 
-  Title:
-    m_Untranslated: Activate the Magic Leap Simulator option
   m_Paragraphs:
     m_Items:
     - m_Type: 6
@@ -22,7 +20,7 @@ MonoBehaviour:
       Text:
         m_Untranslated: 
       m_Tutorial: {fileID: 0}
-      m_Image: {fileID: 2800000, guid: 877195366087a5548b7e5d06558af26f, type: 3}
+      m_Image: {fileID: 2800000, guid: f41dc3b532e11b34da2830cc34efb572, type: 3}
       m_Video: {fileID: 0}
       m_CriteriaCompletion: 0
       m_Criteria:
@@ -39,11 +37,9 @@ MonoBehaviour:
       Title:
         m_Untranslated: 
       Text:
-        m_Untranslated: If you installed the Magic Leap Application Simulator when
-          you installed the Unity packages in the Magic Leap Hub, you will be able
-          to use the simulator to test your applications during development. This
-          speeds up the process of development iteration since you don't have to
-          build to the headset every time you wish to test.
+        m_Untranslated: 'A project validation tool is provided with the SDK that
+          allows the user to set all the relevant settings for Magic Leap development
+          quickly. '
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
@@ -62,12 +58,11 @@ MonoBehaviour:
       Title:
         m_Untranslated: Instruction
       Text:
-        m_Untranslated: 'Switch to the <b>Standalone</b> tab and enable the <b>Magic
-          Leap App Simulator</b> plug-in.
-
-
-          Close the <b>Project Settings</b>
-          window.'
+        m_Untranslated: "Select  <b>Window > XR > MagicLeap > Project Validation.</b>\n\nSelect
+          <b>Fix All</b> to run the validation tool. \n\nNotice that currently, the
+          texture compression settings cannot be updated by the validation tool.
+          In the next steps, you will fix that. Close the project validation tool
+          window when done."
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

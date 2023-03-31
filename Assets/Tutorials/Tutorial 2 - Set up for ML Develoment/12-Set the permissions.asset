@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
-  m_Name: 5-Open the Android Player settings
+  m_Name: 12-Set the permissions
   m_EditorClassIdentifier: 
   m_Paragraphs:
     m_Items:
@@ -20,7 +20,7 @@ MonoBehaviour:
       Text:
         m_Untranslated: 
       m_Tutorial: {fileID: 0}
-      m_Image: {fileID: 2800000, guid: 8e09ddada5db9734a8da62711415dbd7, type: 3}
+      m_Image: {fileID: 2800000, guid: 33394e11e94c7864ab6feaa7c49f91bd, type: 3}
       m_Video: {fileID: 0}
       m_CriteriaCompletion: 0
       m_Criteria:
@@ -35,11 +35,10 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 0
       Title:
-        m_Untranslated: 
+        m_Untranslated: Set the permissions
       Text:
-        m_Untranslated: There are still a few things you need to manually set before
-          you are ready to build to your device. Most of these settings you will
-          find under the <b>Project > Player</b> settings.
+        m_Untranslated: After enabling the <b>Custom Main Manifest,</b> you will
+          be able to set permissions manually for your applications.
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
@@ -58,16 +57,9 @@ MonoBehaviour:
       Title:
         m_Untranslated: Instruction
       Text:
-        m_Untranslated: 'Open <b>Edit > Project Settings,</b> select <b>Player,</b>
-          and then select the <b>Android</b> tab.
-
-
-          <b>Note: </b>To keep
-          this window visible as you go through the following steps, you may want
-          to dock it next to the Game and Scene view windows. This will make the
-          next few steps much easier.
-
-'
+        m_Untranslated: "In the Project settings window, select <b>Magic Leap > Permissions.</b>
+          \n\nSet the <b>API Level</b> to the highest one available and enable all
+          of the permissions."
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

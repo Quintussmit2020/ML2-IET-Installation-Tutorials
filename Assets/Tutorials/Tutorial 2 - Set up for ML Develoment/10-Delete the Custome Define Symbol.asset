@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
-  m_Name: 6-Change the Image compression settings
+  m_Name: 10-Delete the Custome Define Symbol
   m_EditorClassIdentifier: 
   Title:
-    m_Untranslated: Change the Image compression settings
+    m_Untranslated: Delete the Custom Define Symbol
   m_Paragraphs:
     m_Items:
     - m_Type: 6
@@ -22,7 +22,7 @@ MonoBehaviour:
       Text:
         m_Untranslated: 
       m_Tutorial: {fileID: 0}
-      m_Image: {fileID: 2800000, guid: 6d1b6442e34e8c9469d45e09195a6feb, type: 3}
+      m_Image: {fileID: 2800000, guid: 598e9c46207df2947a811c0125703769, type: 3}
       m_Video: {fileID: 0}
       m_CriteriaCompletion: 0
       m_Criteria:
@@ -39,8 +39,12 @@ MonoBehaviour:
       Title:
         m_Untranslated: 
       Text:
-        m_Untranslated: Magic Leap does not support the default texture compression
-          format.
+        m_Untranslated: "In this step you will delete a custom define symbol that
+          is included in the scripts. \n\n<b> Important!</b> Please note that this
+          step is specific to this tutorial and is not something you will have to
+          do in your own projects.\n\nThe custom symbol is used in the script to
+          keep the Unity editor from compiling the scripts before the required packages
+          are installed"
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
@@ -59,8 +63,13 @@ MonoBehaviour:
       Title:
         m_Untranslated: Instruction
       Text:
-        m_Untranslated: Expand the <b>Other Settings</b> section, and change the
-          <b>Texture compression format</b> to <b>DXT +RGTC(BC4,BC5).</b>
+        m_Untranslated: 'Go to the <b>Other Settings</b>  section, and under Scripting
+          Define Symbols, delete the "PACKAGE_INSTALLED" symbol by selecting it and
+          selecting the - button.
+
+
+          Select the <b>Apply</b> button to save
+          the changes.'
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

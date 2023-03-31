@@ -10,8 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
-  m_Name: 7-Set the Minimum API Level
+  m_Name: 8-Change the Image compression settings
   m_EditorClassIdentifier: 
+  Title:
+    m_Untranslated: Change the Image compression settings
   m_Paragraphs:
     m_Items:
     - m_Type: 6
@@ -20,7 +22,7 @@ MonoBehaviour:
       Text:
         m_Untranslated: 
       m_Tutorial: {fileID: 0}
-      m_Image: {fileID: 2800000, guid: 59e1a143510834d4289da59ac477eda7, type: 3}
+      m_Image: {fileID: 2800000, guid: 6d1b6442e34e8c9469d45e09195a6feb, type: 3}
       m_Video: {fileID: 0}
       m_CriteriaCompletion: 0
       m_Criteria:
@@ -35,9 +37,10 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 0
       Title:
-        m_Untranslated: Set the minimum API Level
+        m_Untranslated: 
       Text:
-        m_Untranslated: Magic Leap requires a minimum Android API level to run applications.
+        m_Untranslated: Magic Leap does not support the default texture compression
+          format.
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
@@ -56,8 +59,8 @@ MonoBehaviour:
       Title:
         m_Untranslated: Instruction
       Text:
-        m_Untranslated: Under Identification, set the <b>Minimum API</b> Level to
-          <b>29.</b>
+        m_Untranslated: Expand the <b>Other Settings</b> section, and change the
+          <b>Texture compression format</b> to <b>DXT +RGTC(BC4,BC5).</b>
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

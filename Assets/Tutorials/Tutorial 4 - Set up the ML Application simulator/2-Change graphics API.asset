@@ -12,6 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
   m_Name: 2-Change graphics API
   m_EditorClassIdentifier: 
+  Title:
+    m_Untranslated: Change the Graphics API
   m_Paragraphs:
     m_Items:
     - m_Type: 6
@@ -35,7 +37,7 @@ MonoBehaviour:
       m_TutorialButtonText: 
     - m_Type: 0
       Title:
-        m_Untranslated: Change the Graphics API
+        m_Untranslated: 
       Text:
         m_Untranslated: 'Running the Simulator on Windows currently only supports
           <b>OpenGLCore,</b> and on Mac using <b>Metal or OpenGLCore</b> depending
@@ -43,8 +45,8 @@ MonoBehaviour:
 
 
           For more information on which API to use,
-          refer to the <a href="https://developer-docs.magicleap.cloud/docs/guides/developer-tools/app-sim/app-sim-graphics-compatibility
-          ">Graphics Compatibility page</a>  from Magic Leap. '
+          refer to the <a href="https://developer-docs.magicleap.cloud/docs/guides/developer-tools/app-sim/app-sim-graphics-compatibility">Graphics
+          Compatibility page</a>   from Magic Leap. '
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

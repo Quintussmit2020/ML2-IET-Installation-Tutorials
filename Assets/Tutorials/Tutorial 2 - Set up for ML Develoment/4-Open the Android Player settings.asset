@@ -10,10 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
-  m_Name: 9-Custom Manifest
+  m_Name: 4-Open the Android Player settings
   m_EditorClassIdentifier: 
-  Title:
-    m_Untranslated: Enable the Custom Main Manifest option
   m_Paragraphs:
     m_Items:
     - m_Type: 6
@@ -22,7 +20,7 @@ MonoBehaviour:
       Text:
         m_Untranslated: 
       m_Tutorial: {fileID: 0}
-      m_Image: {fileID: 2800000, guid: 4f4489366c6ef414caf22bd2efa61c0e, type: 3}
+      m_Image: {fileID: 2800000, guid: 8e09ddada5db9734a8da62711415dbd7, type: 3}
       m_Video: {fileID: 0}
       m_CriteriaCompletion: 0
       m_Criteria:
@@ -39,9 +37,9 @@ MonoBehaviour:
       Title:
         m_Untranslated: 
       Text:
-        m_Untranslated: Some of the permissions for certain features of the Magic
-          Leap must be set manually. You can access these settings only after enabling
-          the <b>Custom Main Manifest</b> file option in the Player settings.
+        m_Untranslated: There are still a few things you need to manually set before
+          you are ready to build to your device. Most of these settings you will
+          find under the <b>Project > Player</b> settings.
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
@@ -60,9 +58,16 @@ MonoBehaviour:
       Title:
         m_Untranslated: Instruction
       Text:
-        m_Untranslated: Expand the <b>Publishing Settings</b> section at the bottom
-          of the  <b>Android</b> settings, and enable the <b>Custom Main Manifest</b>
-          option.
+        m_Untranslated: 'Open <b>Edit > Project Settings,</b> select <b>Player,</b>
+          and then select the <b>Android</b> tab.
+
+
+          <b>Note: </b>To keep
+          this window visible as you go through the following steps, you may want
+          to dock it next to the Game and Scene view windows. This will make the
+          next few steps much easier.
+
+'
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}
